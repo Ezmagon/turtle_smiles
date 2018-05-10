@@ -10,3 +10,7 @@ Clone the repo and run `python3 setup.py install`
 
 Usage:
 After installation, run `draw_smiles.py -h` for instructions
+
+Example:
+An example of what turtle\_smiles can do
+[Phenylalanine as drawn by turtle\_smiles](https://github.com/ezmagon/turtle_smiles/example.png)
