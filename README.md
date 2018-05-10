@@ -13,4 +13,4 @@ After installation, run `draw_smiles.py -h` for instructions
 
 Example:
 An example of what turtle\_smiles can do
-[Phenylalanine as drawn by turtle\_smiles](https://github.com/ezmagon/turtle_smiles/example.png)
+![alt text](https://github.com/Ezmagon/turtle_smiles/blob/master/example.png "Phenylalanine as drawn by turtle\_smiles")
